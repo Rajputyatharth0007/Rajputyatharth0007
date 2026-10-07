@@ -1,115 +1,96 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2400&pause=700&center=true&vCenter=true&width=900&lines=GPS%3A+LOST+%2F%2F+CLF%3A+ONLINE;WHAT+IF%3F+%E2%86%92+IT+WORKS.;BUILD+%E2%86%92+BREAK+%E2%86%92+REBUILD+%E2%86%92+SHIP;YATHARTH+%2F%2F+TRANSMISSION+0007" alt="Yatharth transmission" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2200&pause=650&center=true&vCenter=true&width=950&lines=YATHARTH.exe+%2F%2F+booting...;input%3A+%22what+if%3F%22;status%3A+building...;idea+%E2%86%92+prototype+%E2%86%92+break+%E2%86%92+rebuild+%E2%86%92+ship" alt="Yatharth boot sequence" />
 
 # YATHARTH VIKRAM SINGH
 
-**Founder @ VYMRA · Student Developer · Building in Public**
+### I don't have one niche. I have one pattern:
 
-[![VYMRA](https://img.shields.io/badge/VYMRA-SPATIAL_INTELLIGENCE-ff2d55?style=for-the-badge)](https://www.vymra.org/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SIGNAL_FEED-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajputyatharth0007/)
-[![GitHub](https://img.shields.io/badge/GITHUB-BUILD_LOG-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajputyatharth0007)
+## **see something interesting → ask “what if?” → build it**
+
+[![VYMRA](https://img.shields.io/badge/VYMRA-BUILDING_IN_PUBLIC-ff2d55?style=for-the-badge)](https://www.vymra.org/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FOLLOW_THE_JOURNEY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajputyatharth0007/)
+[![GitHub](https://img.shields.io/badge/GITHUB-OPEN_THE_LAB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajputyatharth0007)
 
 </div>
 
+---
+
 ```text
-┌─ TRANSMISSION 0007 ───────────────────────────────────────────┐
-│ NAME        YATHARTH VIKRAM SINGH                            │
-│ MODE        LEARN → BUILD → BREAK → REBUILD → SHIP           │
-│ BASE        VYMRA                                             │
-│ OBSESSION   SPATIAL INTELLIGENCE × AI × PRODUCTS             │
-│ RULE        DON'T JUST WATCH THE TUTORIAL. BUILD THE THING.   │
-└───────────────────────────────────────────────────────────────┘
+┌────────────────────── YATHARTH.exe ──────────────────────┐
+│ role       curious builder                               │
+│ base       VYMRA                                         │
+│ mode       learn by making                               │
+│ fuel       "what if?"                                    │
+│ output     apps / experiments / systems / broken v1s     │
+│ warning    may turn random ideas into actual projects    │
+└───────────────────────────────────────────────────────────┘
 ```
 
-## THIS ISN'T A PORTFOLIO. IT'S A LIVE SYSTEM.
+## // THIS PROFILE IS NOT A RESUME
 
-I don't want a GitHub that says *“here are the technologies I know.”*
+I don't want this page to be a list of technologies with percentage bars pretending I know exactly where I stand.
 
-I want one that answers a better question:
+This is closer to a **build log**.
 
-> **What am I curious enough to actually build?**
+Some ideas become projects.  
+Some projects become products.  
+Some break in spectacular ways.  
+All of them teach me something.
 
-So this profile is a record of experiments, broken versions, strange ideas, late-night fixes, and the systems that survived all of them.
+> **I keep asking “what if?” until it turns into “it works.”**
 
 ---
 
-## // 01 — THE QUESTION THAT GOT TOO BIG
-
-### `WHAT HAPPENS WHEN GPS STOPS?`
-
-That question turned into **CLF — ConneXity Location Finder**.
-
-Not another map screenshot.  
-Not a “find my room” demo.
-
-The goal is a real indoor intelligence system that can turn **Wi-Fi signals + motion + spatial data** into **position, direction, and navigation** inside places where GPS becomes useless.
-
-```text
-[ WIFI RSSI ] ─┐
-[ MOTION    ] ─┼──> LOCATION ──> ROUTE ──> HUMAN
-[ FLOOR MAP ] ─┘
-```
-
-**STATUS:** building the idea into a real product through **VYMRA**.
-
-[ENTER VYMRA / CLF →](https://www.vymra.org/)
-
----
-
-## // 02 — I LEARN BY MAKING THE SCREEN MOVE
-
-A tutorial can make something look obvious.
-
-Building it makes the missing pieces visible.
-
-So instead of collecting courses, I keep turning new concepts into small working systems:
-
-```text
-Vue 3      → built a task manager
-Flutter    → built a task-management dashboard
-LibreCAD   → started translating real spaces into 2D layouts
-Python GUI → built interactive desktop games
-SQL        → pushed through advanced query challenges
-```
-
-**CURRENT LOOP:** understand it → build it → discover what I didn't understand → repeat.
-
----
-
-## // 03 — WHAT IF AI AGENTS DIDN'T WORK ALONE?
-
-That became **Devil AI** during the Google Gemini Vibe Coding Hackathon.
-
-A multi-agent experiment built around dividing work, coordinating agents, and using AI as a system rather than a single prompt box.
-
-[OPEN DEVIL AI →](https://github.com/Rajputyatharth0007/first-hackathon-of-our-life-)
-
-```text
-one prompt  ≠  one system
-many agents + roles + coordination  =  something more interesting
-```
-
----
-
-## // 04 — PROOF > PROMISES
+## // THINGS THAT ESCAPED MY HEAD
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 TIC-TAC-TOE / PYTHON
-Single-player + two-player GUI, event handling, game logic, win detection.
+### 🚀 01 / VYMRA
+Not one project.
 
-**[OPEN BUILD →](https://github.com/Rajputyatharth0007/tik-tak-toe)**
+A place for the bigger journey: building, experimenting, shipping, documenting, and seeing how far an idea can be pushed.
+
+**theme:** technology × curiosity × creation
+
+**[ENTER VYMRA →](https://www.vymra.org/)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 GUESS THE NUMBER / PYTHON
-A small desktop game built around feedback loops, logic, and an interactive Tkinter UI.
+### 🧭 02 / CLF
+**what if buildings had their own GPS?**
 
-**[OPEN BUILD →](https://github.com/Rajputyatharth0007/Guess-the-number-game-using-GUI)**
+ConneXity Location Finder explores indoor navigation using Wi-Fi signals, motion sensors, maps, localization, and route guidance.
+
+Not my whole identity.  
+Just one very ambitious question.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 😈 03 / DEVIL AI
+**what if AI agents worked like a team?**
+
+A Google Vibe Coding Hackathon experiment around multi-agent thinking, fast prototyping, and building with AI instead of only talking about it.
+
+**[OPEN THE EXPERIMENT →](https://github.com/Rajputyatharth0007/first-hackathon-of-our-life-)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 04 / SMALL BUILDS
+Sometimes the best way to understand a concept is to make something move on screen.
+
+Python GUI games, app experiments, Flutter interfaces, web builds, and whatever I decide to break next.
+
+**[TIC-TAC-TOE →](https://github.com/Rajputyatharth0007/tik-tak-toe)**  
+**[GUESS THE NUMBER →](https://github.com/Rajputyatharth0007/Guess-the-number-game-using-GUI)**
 
 </td>
 </tr>
@@ -117,51 +98,67 @@ A small desktop game built around feedback loops, logic, and an interactive Tkin
 
 ---
 
-## // 05 — THE STACK ISN'T THE STORY
+## // CURRENTLY BREAKING
 
-The interesting part is **what the stack lets me make**.
+```text
+[ AI / AGENTS ]       learning how systems think together
+[ FLUTTER ]           turning ideas into mobile interfaces
+[ WEB ]               building things people can actually use
+[ SPATIAL TECH ]      maps, positioning, indoor navigation
+[ PRODUCT THINKING ]  less "cool demo", more "would someone use this?"
+[ VYMRA ]             figuring out what this can become
+```
 
-<div align="center">
+The exact tools will change.
 
-### THINK
-![Python](https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### SHIP
-![Flutter](https://img.shields.io/badge/FLUTTER-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/DART-111111?style=for-the-badge&logo=dart&logoColor=54C5F8)
-![Vue](https://img.shields.io/badge/VUE_3-111111?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-### CONNECT
-![FastAPI](https://img.shields.io/badge/FASTAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
-![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)
-![Gemini](https://img.shields.io/badge/GEMINI-111111?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-
-### MAP THE PHYSICAL WORLD
-![LibreCAD](https://img.shields.io/badge/LIBRECAD-111111?style=for-the-badge)
-![Spatial Systems](https://img.shields.io/badge/SPATIAL_SYSTEMS-111111?style=for-the-badge)
-![Indoor Navigation](https://img.shields.io/badge/INDOOR_NAVIGATION-111111?style=for-the-badge)
-
-</div>
+The habit probably won't.
 
 ---
 
-## // 06 — BUILD CONTRACT
+## // TOOLS I'VE LEFT FINGERPRINTS ON
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/.PY-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/.JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/.DART-111111?style=for-the-badge&logo=dart&logoColor=54C5F8)
+![Flutter](https://img.shields.io/badge/FLUTTER-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8)
+![TypeScript](https://img.shields.io/badge/.TS-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Vue](https://img.shields.io/badge/VUE-111111?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
+![FastAPI](https://img.shields.io/badge/FASTAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ```text
-01. If I don't understand it, I experiment with it.
-02. If I can build a rough version, I can improve it.
-03. If the first version looks bad, good — it exists.
-04. If the idea feels slightly too ambitious, it is probably worth exploring.
-05. Learning counts more when it leaves evidence.
+not mastery meters.
+not a checklist.
+just evidence that I touched the thing and tried to build with it.
 ```
 
 ---
 
-## // TELEMETRY
+## // MY BUILD LOOP
+
+```mermaid
+flowchart LR
+    A["what if?"] --> B["learn enough"]
+    B --> C["build v1"]
+    C --> D["break it"]
+    D --> E["understand why"]
+    E --> F["build v2"]
+    F --> G["ship / share"]
+    G --> A
+```
+
+If the first version looks bad, good.  
+At least it exists.
+
+---
+
+## // PROOF > PROMISES
 
 <div align="center">
 
@@ -172,20 +169,33 @@ The interesting part is **what the stack lets me make**.
 
 ---
 
+## // RULES OF THE LAB
+
+```text
+01. curiosity before certainty.
+02. build before overthinking.
+03. ugly v1 > imaginary masterpiece.
+04. learn the tool by making something with it.
+05. if an idea feels slightly too ambitious, investigate it.
+06. don't collect projects. collect proof that you can create.
+```
+
+---
+
 <details>
-<summary><b>OPEN // SKILL & LEARNING LOG</b></summary>
+<summary><b>OPEN // RANDOM SIGNALS FROM THE BUILD LOG</b></summary>
 <br>
 
 ```text
-✓ HackerRank — SQL (Advanced)
-✓ HackerRank — Java (Basic)
-✓ HackerRank — Python (Basic)
-✓ Python / Tkinter projects
-✓ Flutter application experiments
-✓ Vue 3 + TypeScript experiments
-✓ LibreCAD / spatial drafting practice
-✓ AI agent hackathon work
-✓ CLF / indoor-navigation R&D
+• Python + Tkinter desktop projects
+• Java fundamentals
+• SQL problem solving
+• Flutter application experiments
+• Vue / TypeScript web experiments
+• AI agent hackathon work
+• indoor-navigation + spatial-system R&D
+• product/UI experiments
+• VYMRA journey in public
 ```
 
 </details>
@@ -194,9 +204,11 @@ The interesting part is **what the stack lets me make**.
 
 <div align="center">
 
-### THE NEXT QUESTION IS ALREADY LOADING.
+## NEXT BUILD: UNKNOWN
 
-`what if? > prototype > it works > what if?`
+### that's the interesting part.
+
+`what if? → prototype → it works → new what if?`
 
 **[VYMRA](https://www.vymra.org/) · [LINKEDIN](https://www.linkedin.com/in/rajputyatharth0007/) · [GITHUB](https://github.com/Rajputyatharth0007)**
 
