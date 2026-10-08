@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2200&pause=650&center=true&vCenter=true&width=950&lines=YATHARTH.exe+%2F%2F+booting...;input%3A+%22what+if%3F%22;status%3A+building...;idea+%E2%86%92+prototype+%E2%86%92+break+%E2%86%92+rebuild+%E2%86%92+ship" alt="Yatharth boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2200&pause=650&center=true&vCenter=true&width=950&lines=YATHARTH.exe+%2F%2F+booting...;I%27M+BUILDING+PROOF+OF+WHAT+I+CAN+BECOME;learn+%E2%86%92+experiment+%E2%86%92+engineer+%E2%86%92+build;BUILD+%E2%86%92+BREAK+%E2%86%92+REBUILD+%E2%86%92+EVOLVE" alt="Yatharth boot sequence" />
 
 # YATHARTH VIKRAM SINGH
 
-### I don't have one niche. I have one pattern:
-
-## **see something interesting → ask “what if?” → build it**
+## 🔥 **I'm not building a GitHub profile. I'm building proof of what I can become.**
 
 [![VYMRA](https://img.shields.io/badge/VYMRA-BUILDING_IN_PUBLIC-ff2d55?style=for-the-badge)](https://www.vymra.org/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FOLLOW_THE_JOURNEY-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajputyatharth0007/)
@@ -16,29 +14,41 @@
 
 ---
 
+From **Python & Machine Learning** to **AI agents, Flutter, MongoDB, backend systems, and real-time applications** — every repository is another problem I chose to **understand by building**, not simply learn about.
+
+What started as coding experiments is becoming something bigger:
+
+<div align="center">
+
+### **learn → experiment → engineer → build**
+
+</div>
+
+Projects like **CLF**, and everything growing around **VYMRA**, are pushing me beyond writing code — toward **designing systems, solving real problems, and turning ideas into products people can actually use.**
+
+<div align="center">
+
+## **Build. Break. Rebuild. Evolve.**
+
+### That's the journey. 🚀
+
+</div>
+
 ```text
-┌────────────────────── YATHARTH.exe ──────────────────────┐
-│ role       curious builder                               │
-│ base       VYMRA                                         │
-│ mode       learn by making                               │
-│ fuel       "what if?"                                    │
-│ output     apps / experiments / systems / broken v1s     │
-│ warning    may turn random ideas into actual projects    │
-└───────────────────────────────────────────────────────────┘
+┌────────────────────── YATHARTH / BUILD LOG ──────────────────────┐
+│ Python          → taught me to think                            │
+│ Machine Learning→ taught me to experiment                       │
+│ AI Agents       → taught me to orchestrate                      │
+│ Flutter         → taught me to ship interfaces                  │
+│ MongoDB         → taught me to think in data                    │
+│ Backend Systems → taught me architecture                        │
+│ Real-time Apps  → taught me systems must keep moving            │
+│ CLF             → taught me code has to survive reality         │
+│ VYMRA           → teaching me how ideas become products         │
+│                                                                  │
+│ STATUS          → still becoming.                               │
+└──────────────────────────────────────────────────────────────────┘
 ```
-
-## // THIS PROFILE IS NOT A RESUME
-
-I don't want this page to be a list of technologies with percentage bars pretending I know exactly where I stand.
-
-This is closer to a **build log**.
-
-Some ideas become projects.  
-Some projects become products.  
-Some break in spectacular ways.  
-All of them teach me something.
-
-> **I keep asking “what if?” until it turns into “it works.”**
 
 ---
 
@@ -63,10 +73,10 @@ A place for the bigger journey: building, experimenting, shipping, documenting, 
 ### 🧭 02 / CLF
 **what if buildings had their own GPS?**
 
-ConneXity Location Finder explores indoor navigation using Wi-Fi signals, motion sensors, maps, localization, and route guidance.
+ConneXity Location Finder explores indoor navigation using Wi-Fi signals, motion sensors, maps, localization, machine learning, backend systems, and route guidance.
 
 Not my whole identity.  
-Just one very ambitious question.
+Just one ambitious system forcing me to think beyond individual features.
 
 </td>
 </tr>
@@ -77,7 +87,7 @@ Just one very ambitious question.
 ### 😈 03 / DEVIL AI
 **what if AI agents worked like a team?**
 
-A Google Vibe Coding Hackathon experiment around multi-agent thinking, fast prototyping, and building with AI instead of only talking about it.
+A Google Vibe Coding Hackathon experiment around multi-agent thinking, fast prototyping, coordination, and building with AI instead of only talking about it.
 
 **[OPEN THE EXPERIMENT →](https://github.com/Rajputyatharth0007/first-hackathon-of-our-life-)**
 
@@ -85,9 +95,11 @@ A Google Vibe Coding Hackathon experiment around multi-agent thinking, fast prot
 <td width="50%" valign="top">
 
 ### 🎮 04 / SMALL BUILDS
-Sometimes the best way to understand a concept is to make something move on screen.
+Not every build needs to become a startup.
 
-Python GUI games, app experiments, Flutter interfaces, web builds, and whatever I decide to break next.
+Some exist because the fastest way to understand something is to make it work.
+
+Python GUI games, Flutter interfaces, web experiments, backend experiments, and whatever I decide to build next.
 
 **[TIC-TAC-TOE →](https://github.com/Rajputyatharth0007/tik-tak-toe)**  
 **[GUESS THE NUMBER →](https://github.com/Rajputyatharth0007/Guess-the-number-game-using-GUI)**
@@ -98,20 +110,22 @@ Python GUI games, app experiments, Flutter interfaces, web builds, and whatever 
 
 ---
 
-## // CURRENTLY BREAKING
+## // CURRENTLY EVOLVING
 
 ```text
-[ AI / AGENTS ]       learning how systems think together
-[ FLUTTER ]           turning ideas into mobile interfaces
-[ WEB ]               building things people can actually use
-[ SPATIAL TECH ]      maps, positioning, indoor navigation
-[ PRODUCT THINKING ]  less "cool demo", more "would someone use this?"
-[ VYMRA ]             figuring out what this can become
+[ AI / AGENTS ]       from prompts → coordinated systems
+[ MACHINE LEARNING ]  from models → useful decisions
+[ FLUTTER ]           from screens → usable products
+[ MONGODB / DATA ]    from storing data → designing data flow
+[ BACKEND SYSTEMS ]   from endpoints → architecture
+[ REAL-TIME APPS ]    from request/response → live state
+[ PRODUCT THINKING ]  from "it works" → "should this exist?"
+[ VYMRA ]             from projects → something bigger
 ```
 
-The exact tools will change.
+The stack can change.
 
-The habit probably won't.
+The direction is the important part.
 
 ---
 
@@ -119,13 +133,16 @@ The habit probably won't.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/.PY-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/.JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/.DART-111111?style=for-the-badge&logo=dart&logoColor=54C5F8)
+![Python](https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-111111?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-111111?style=for-the-badge)
+![Java](https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-111111?style=for-the-badge&logo=dart&logoColor=54C5F8)
 ![Flutter](https://img.shields.io/badge/FLUTTER-111111?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![TypeScript](https://img.shields.io/badge/.TS-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Vue](https://img.shields.io/badge/VUE-111111?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
+![MongoDB](https://img.shields.io/badge/MONGODB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Vue](https://img.shields.io/badge/VUE-111111?style=for-the-badge&logo=vuedotjs&logoColor=42B883)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)
@@ -135,7 +152,7 @@ The habit probably won't.
 ```text
 not mastery meters.
 not a checklist.
-just evidence that I touched the thing and tried to build with it.
+just evidence that I touched the thing, struggled with it, and built something.
 ```
 
 ---
@@ -144,17 +161,15 @@ just evidence that I touched the thing and tried to build with it.
 
 ```mermaid
 flowchart LR
-    A["what if?"] --> B["learn enough"]
-    B --> C["build v1"]
-    C --> D["break it"]
-    D --> E["understand why"]
-    E --> F["build v2"]
-    F --> G["ship / share"]
-    G --> A
+    A["learn"] --> B["experiment"]
+    B --> C["engineer"]
+    C --> D["build"]
+    D --> E["break"]
+    E --> F["understand"]
+    F --> G["rebuild"]
+    G --> H["evolve"]
+    H --> A
 ```
-
-If the first version looks bad, good.  
-At least it exists.
 
 ---
 
@@ -172,12 +187,12 @@ At least it exists.
 ## // RULES OF THE LAB
 
 ```text
-01. curiosity before certainty.
-02. build before overthinking.
+01. understand by building.
+02. experiments are supposed to be imperfect.
 03. ugly v1 > imaginary masterpiece.
-04. learn the tool by making something with it.
-05. if an idea feels slightly too ambitious, investigate it.
-06. don't collect projects. collect proof that you can create.
+04. don't just learn the tool — make the tool solve something.
+05. move from features → systems → products.
+06. don't collect repositories. collect evidence of growth.
 ```
 
 ---
@@ -188,11 +203,14 @@ At least it exists.
 
 ```text
 • Python + Tkinter desktop projects
+• machine-learning experiments
 • Java fundamentals
 • SQL problem solving
-• Flutter application experiments
+• Flutter application development
+• MongoDB + backend exploration
 • Vue / TypeScript web experiments
 • AI agent hackathon work
+• real-time application architecture
 • indoor-navigation + spatial-system R&D
 • product/UI experiments
 • VYMRA journey in public
@@ -204,14 +222,14 @@ At least it exists.
 
 <div align="center">
 
-## NEXT BUILD: UNKNOWN
+## STATUS: STILL BECOMING.
 
-### that's the interesting part.
+### The next version should make this one look small.
 
-`what if? → prototype → it works → new what if?`
+`learn → experiment → engineer → build → break → rebuild → evolve`
 
 **[VYMRA](https://www.vymra.org/) · [LINKEDIN](https://www.linkedin.com/in/rajputyatharth0007/) · [GITHUB](https://github.com/Rajputyatharth0007)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rajputyatharth0007&style=flat-square&label=SIGNAL+RECEIVED)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajputyatharth0007&style=flat-square&label=PROOF+SEEN)
 
 </div>
